@@ -55,8 +55,10 @@ En Popüler 10 Ürün – Bar grafiği
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d842b6d1-daaa-4ace-b4e1-3b614f072cba" />
 
 Cinsiyete Göre Kullanıcı Dağılımı – Bar grafiği
+<img width="600" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/c38ca605-0834-4760-ae6b-a976a31b1db1" />
 
 Sepet Sayısı Dağılımı – Histogram
+<img width="600" height="400" alt="Figure_3" src="https://github.com/user-attachments/assets/6803f996-7eed-4ce1-b954-7fe64803ffad" />
 
 (Grafikler Jupyter/Matplotlib ile oluşturulmuştur.)
 
