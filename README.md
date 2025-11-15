@@ -64,9 +64,9 @@ Sepet Sayısı Dağılımı – Histogram
 
 4️⃣ Özet ve Öneriler
 
-Hangi ürüne odaklanmalı: En çok gelir getiren ürün, şirket için öncelikli.
+Hangi ürüne odaklanmalı: En çok gelir getiren ürün, şirket için öncelikli.(43524799)
 
-Müşteri hedefleme: Cinsiyet ve sepet sayısı analizlerine göre reklam ve kampanyalar optimize edilebilir.
+Müşteri hedefleme: Cinsiyet ve sepet sayısı analizlerine göre reklam ve kampanyalar optimize edilebilir.(13871)
 
 Stok ve reklam: Popüler ürünler için öncelikli stok ve pazarlama yatırımı önerilir.
 
