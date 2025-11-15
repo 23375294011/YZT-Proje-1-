@@ -52,6 +52,7 @@ Gelir artış/düşüşleri grafik ile gösterildi (isteğe bağlı matplotlib k
 3️⃣ Görselleştirmeler
 
 En Popüler 10 Ürün – Bar grafiği
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d842b6d1-daaa-4ace-b4e1-3b614f072cba" />
 
 Cinsiyete Göre Kullanıcı Dağılımı – Bar grafiği
 
